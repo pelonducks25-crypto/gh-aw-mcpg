@@ -1,15 +1,11 @@
-# MCP Gateway
 
 A gateway for Model Context Protocol (MCP) servers.
 
-This gateway is used with [GitHub Agentic Workflows](https://github.com/github/gh-aw) via the `sandbox.mcp` configuration to provide MCP server access to AI agents running in sandboxed environments.
+This gateway is used with [GitHub Agentic Workflows](https://) via the `sandbox.mcp` configuration to provide MCP server access to AI agents running in sandboxed environments.
 
 ## Quick Start
 
-1. **Pull the Docker image** (when available):
-   ```bash
-   docker pull ghcr.io/github/gh-aw-mcpg:latest
-   ```
+1. **Pull the Docker image** (when available
 
 2. **Create a configuration file** (`config.json`):
    ```json
