@@ -13,7 +13,7 @@ This gateway is used with [GitHub Agentic Workflows](https://github.com/github/g
 
 2. **Create a configuration file** (`config.json`):
    ```json
-   {
+   
      "gateway": {
        "apiKey": "${MCP_GATEWAY_API_KEY}"
      },
